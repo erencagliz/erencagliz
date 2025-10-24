@@ -28,7 +28,3 @@ I'm a **Software Developer** with over **4 years of experience** in front-end an
 
 ![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencagliz&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erencagliz&layout=compact&theme=default)
-
----
-
-✨ *“Striving for clean, maintainable, and meaningful code.”*
