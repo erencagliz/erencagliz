@@ -20,7 +20,7 @@ I'm a **Software Developer** with over **4 years of experience** in front-end an
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren%20Çağlı-blue?logo=linkedin)](https://www.linkedin.com/in/eren-%C3%A7a%C4%9Fl%C4%B1/)  
-[![Instagram](https://img.shields.io/badge/Instagram-erencagliz-blue?logo=instagram)](https://www.instagram.com/erencagliz/)  
+[![Instagram](https://img.shields.io/badge/Instagram-erencagliz-green?logo=instagram)](https://www.instagram.com/erencagliz/)  
 [![GitHub](https://img.shields.io/badge/GitHub-erencagliz-lightgrey?logo=github)](https://github.com/erencagliz)
 
 ---
