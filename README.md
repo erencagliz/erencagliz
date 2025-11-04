@@ -14,7 +14,7 @@ In addition to development, I contribute to **technical SEO**, content strategy,
 - **Languages:** PHP, JavaScript, C#, HTML, CSS  
 - **Frameworks:** Laravel, Vue.js, CodeIgniter, .NET  
 - **Databases:** MySQL, PostgreSQL, MSSQL
-- **Tools:** Git, Docker, Composer, npm, Postman, Visual Studio, VS Code  
+- **Tools:** Git, Docker, Composer, npm, Postman, Visual Studio, VS Code, WebStorm, PHPStorm
 - **Practices:** RESTful API Design, Agile/Scrum, Clean Code, SOLID Principles, Test Automation, API Integrations
 
 ---
