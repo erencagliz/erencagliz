@@ -2,18 +2,20 @@
 
 I'm a **Software Developer** with over **4 years of experience** in front-end and back-end development.
 
-💡 On the **front-end**, I focus on building clean and user-friendly interfaces using **VueJS**, **HTML**, **CSS**, and **JavaScript**.  
-⚙️ On the **back-end**, I work with **Laravel**, **PHP**, and **CodeIgniter** to develop efficient, scalable systems.
+💡 On the **front-end**, I focus on building clean, maintainable, and user-friendly interfaces using **Vue.js**, **HTML**, **CSS**, and **JavaScript**.  
+⚙️ On the **back-end**, I work with **Laravel**, **PHP**, **CodeIgniter**, and **C#/.NET** to develop scalable, secure, and high-performance systems.
+
+In addition to development, I contribute to **technical SEO**, content strategy, and optimization processes to help improve project visibility and user reach.
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages:** PHP, JavaScript, HTML, CSS  
-- **Frameworks:** Laravel, VueJS, CodeIgniter  
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, Composer, npm  
-- **Practices:** RESTful API Design, Agile, Kanban
+- **Languages:** PHP, JavaScript, C#, HTML, CSS  
+- **Frameworks:** Laravel, Vue.js, CodeIgniter, .NET  
+- **Databases:** MySQL, PostgreSQL, MSSQL
+- **Tools:** Git, Docker, Composer, npm, Postman, Visual Studio, VS Code  
+- **Practices:** RESTful API Design, Agile/Scrum, Clean Code, SOLID Principles, Test Automation, API Integrations
 
 ---
 
