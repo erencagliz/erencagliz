@@ -1,11 +1,40 @@
 # 👋 Hi, I'm Eren Çağlı
 
-I'm a **Software Developer** with over **4 years of experience** in front-end and back-end development.
+💻 I'm a **Software Developer** based in Istanbul, with over **4 years of experience** building high-performance, scalable, and user-focused web applications.
 
-💡 On the **front-end**, I focus on building clean, maintainable, and user-friendly interfaces using **Vue.js**, **HTML**, **CSS**, and **JavaScript**.  
-⚙️ On the **back-end**, I work with **Laravel**, **PHP**, **CodeIgniter**, and **C#/.NET** to develop scalable, secure, and high-performance systems.
+I specialize in **Laravel** and **Vue.js**, crafting complete solutions from backend logic to frontend interfaces.  
+My goal is to create clean, maintainable, and efficient software that delivers both **technical excellence** and **exceptional user experience**.
 
-In addition to development, I contribute to **technical SEO**, content strategy, and optimization processes to help improve project visibility and user reach.
+---
+
+### 🧠 About Me
+
+- 🚀 Experienced in **Laravel**, **Vue.js**, **CodeIgniter**, and **.NET**
+- 🧩 Skilled in both **backend** and **frontend** development — from API design to UI optimization  
+- 🔍 Passionate about **SEO**, **content strategy**, and **digital optimization**  
+- 🧠 Continuously learning and exploring emerging technologies  
+- 🧰 Strong focus on **performance**, **security**, and **clean code**
+
+---
+
+### 💼 Experience
+
+**IGY Medya** — *Software Developer*  
+📆 May 2025 – Oct 2025 | 📍 Istanbul, Türkiye  
+Worked on multiple web projects using **Laravel** and **Vue.js**, developing custom modules tailored to client needs. Delivered end-to-end solutions focusing on code quality, performance, and user experience.
+
+**H.I.S. Türkiye** — *Software Developer*  
+📆 Dec 2023 – May 2025 | 📍 Istanbul, Türkiye  
+Developed internal software solutions using **Laravel** and **Vue.js**.  
+Contributed to API design, database modeling, and backend integrations, while digitizing operational workflows.
+
+**Simurgh Media** — *Software Developer*  
+📆 May 2022 – Dec 2023 | 📍 Istanbul, Türkiye  
+Enhanced a **CodeIgniter 4**-based CMS with modular extensions and theme integrations. Focused on performance, maintainability, and delivering client-focused results.
+
+**Triooz** — *Software Developer*  
+📆 Oct 2020 – Dec 2023 | 📍 Istanbul, Türkiye  
+Supported both development and IT operations. Improved system performance and user experience through software optimization and quick technical support.
 
 ---
 
@@ -13,9 +42,19 @@ In addition to development, I contribute to **technical SEO**, content strategy,
 
 - **Languages:** PHP, JavaScript, C#, HTML, CSS  
 - **Frameworks:** Laravel, Vue.js, CodeIgniter, .NET  
-- **Databases:** MySQL, PostgreSQL, MSSQL
-- **Tools:** Git, Docker, Composer, npm, Postman, Visual Studio, VS Code, WebStorm, PHPStorm
-- **Practices:** RESTful API Design, Agile/Scrum, Clean Code, SOLID Principles, Test Automation, API Integrations
+- **Databases:** MySQL, PostgreSQL, MSSQL  
+- **Tools:** Git, Docker, Composer, npm, Postman, Visual Studio, VS Code, WebStorm, PHPStorm  
+- **Practices:** RESTful API Design, Clean Code, SOLID Principles, Agile, Test Automation, API Integrations
+
+---
+
+### 🏆 Certifications
+
+- Problem Solving Techniques  
+- Fundamentals of Programming: APIs and Web Services  
+- Fundamentals of Programming: Algorithms  
+- Artificial Intelligence Fundamentals  
+- Software Architecture Essentials
 
 ---
 
