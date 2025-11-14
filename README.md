@@ -1,60 +1,88 @@
-# 👋 Hi, I'm Eren Çağlı
+# Hi, I'm Eren 👋  
+**Full Stack Developer | Laravel & Vue.js | E-Commerce, SEO and DevOps Specialist**
 
-💻 I'm a **Software Developer** based in Istanbul, with over **4 years of experience** building high-performance, scalable, and user-focused web applications.
-
-I specialize in **Laravel** and **Vue.js**, crafting complete solutions from backend logic to frontend interfaces.  
-My goal is to create clean, maintainable, and efficient software that delivers both **technical excellence** and **exceptional user experience**.
-
----
-
-### 🧠 About Me
-
-- 🚀 Experienced in **Laravel**, **Vue.js**, **CodeIgniter**, and **.NET**
-- 🧩 Skilled in both **backend** and **frontend** development — from API design to UI optimization  
-- 🔍 Passionate about **SEO**, **content strategy**, and **digital optimization**  
-- 🧠 Continuously learning and exploring emerging technologies  
-- 🧰 Strong focus on **performance**, **security**, and **clean code**
+I am a Full Stack Developer who has been actively building modern, scalable and high-performance web applications since 2020.  
+My expertise spans across backend, frontend, CMS development, e-commerce systems and SEO-driven architectures.  
+I develop maintainable, secure and performance-focused solutions using Laravel, Vue.js, WordPress and custom CMS structures.
 
 ---
 
-### 💼 Experience
+## 🚀 About Me
 
-**IGY Medya** — *Software Developer*  
-📆 May 2025 – Oct 2025 | 📍 Istanbul, Türkiye  
-Worked on multiple web projects using **Laravel** and **Vue.js**, developing custom modules tailored to client needs. Delivered end-to-end solutions focusing on code quality, performance, and user experience.
+- Developing web applications, custom CMS solutions and e-commerce platforms since **2020**  
+- Strong experience with **Laravel, Vue.js, WordPress, WooCommerce, CodeIgniter 4**  
+- Skilled in **Docker, Git, CI/CD pipelines, PostgreSQL, MySQL**  
+- Building **SEO-friendly, scalable and optimized** products for agencies and enterprise-level teams  
+- Worked in:  
+  **Triooz**, **Simurgh Media**, **H.I.S Türkiye**, **IGY Medya**, **Pilmak**  
 
-**H.I.S. Türkiye** — *Software Developer*  
-📆 Dec 2023 – May 2025 | 📍 Istanbul, Türkiye  
-Developed internal software solutions using **Laravel** and **Vue.js**.  
-Contributed to API design, database modeling, and backend integrations, while digitizing operational workflows.
-
-**Simurgh Media** — *Software Developer*  
-📆 May 2022 – Dec 2023 | 📍 Istanbul, Türkiye  
-Enhanced a **CodeIgniter 4**-based CMS with modular extensions and theme integrations. Focused on performance, maintainability, and delivering client-focused results.
-
-**Triooz** — *Software Developer*  
-📆 Oct 2020 – Dec 2023 | 📍 Istanbul, Türkiye  
-Supported both development and IT operations. Improved system performance and user experience through software optimization and quick technical support.
+I focus on creating structures that are modular, future-proof and easy to maintain.  
+My work combines **clean code principles**, **modern software architecture**, and **data-driven decision-making**.
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack & Skills
 
-- **Languages:** PHP, JavaScript, C#, HTML, CSS  
-- **Frameworks:** Laravel, Vue.js, CodeIgniter, .NET  
-- **Databases:** MySQL, PostgreSQL, MSSQL  
-- **Tools:** Git, Docker, Composer, npm, Postman, Visual Studio, VS Code, WebStorm, PHPStorm  
-- **Practices:** RESTful API Design, Clean Code, SOLID Principles, Agile, Test Automation, API Integrations
+### **Backend**
+- PHP, Laravel, CodeIgniter 4  
+- API Development, RESTful APIs  
+- MVC Architecture, Software Architecture  
+- Authentication & Authorization  
+- CRUD Applications, Modular Development
+
+### **Frontend**
+- JavaScript (ES6+), Vue.js  
+- Component-Based Architecture  
+- HTML5, CSS3, Responsive UI  
+- UX-Oriented Development
+
+### **DevOps & Workflow**
+- Docker, CI/CD Pipelines  
+- Git, GitHub, GitLab  
+- Deployment Automation  
+- Linux/Ubuntu Environments  
+- Development Workflow Optimization
+
+### **Databases**
+- PostgreSQL, MySQL  
+- Database Design, Query Optimization  
+- Relational DB Management
+
+### **CMS & E-Commerce**
+- WordPress, WooCommerce  
+- Custom CMS Architecture  
+- Plugin/Theme Development  
+- Template Optimization
+
+### **SEO**
+- Technical SEO, SEO Strategy  
+- On-Page SEO, PageSpeed Optimization  
+- Google Search Console / Analytics  
+- Structured Data (Schema)  
+- Keyword Research
 
 ---
 
-### 🏆 Certifications
+## 🧩 Experience Summary
 
-- Problem Solving Techniques  
-- Fundamentals of Programming: APIs and Web Services  
-- Fundamentals of Programming: Algorithms  
-- Artificial Intelligence Fundamentals  
-- Software Architecture Essentials
+### **Triooz (2020 – 2023)**  
+Worked as IT & Software Developer. Built backend systems, managed infrastructure, developed Laravel-based apps, handled DevOps tools and provided system administration support.
+
+### **Simurgh Media (2022 – 2023)**  
+Developed custom modules and sites on a proprietary CMS using CodeIgniter 4.  
+Integrated CI/CD, Docker and performance optimization into the development process.
+
+### **H.I.S Türkiye (2023 – 2025)**  
+Built enterprise-level applications using Laravel + Vue.js.  
+Worked heavily with Docker, PostgreSQL, API architectures and CI/CD-driven development.
+
+### **IGY Medya (2025)**  
+Developed client-facing projects in an agency environment using Laravel & Vue.js.  
+Focused on modular backend, component-based frontend and DevOps workflows.
+
+### **Pilmak (2025 – Present)**  
+Managing five WordPress-based e-commerce sites.  
+Responsible for technical SEO, performance optimization, analytics and full technical management.
 
 ---
 
