@@ -5,9 +5,7 @@ I am a Full Stack Developer who has been actively building modern, scalable and 
 My expertise spans across backend, frontend, CMS development, e-commerce systems and SEO-driven architectures.  
 I develop maintainable, secure and performance-focused solutions using Laravel, Vue.js, WordPress and custom CMS structures.
 
----
-
-## 🚀 About Me
+## About Me
 
 - Developing web applications, custom CMS solutions and e-commerce platforms since **2020**  
 - Strong experience with **Laravel, Vue.js, WordPress, WooCommerce, CodeIgniter 4**  
@@ -19,9 +17,7 @@ I develop maintainable, secure and performance-focused solutions using Laravel, 
 I focus on creating structures that are modular, future-proof and easy to maintain.  
 My work combines **clean code principles**, **modern software architecture**, and **data-driven decision-making**.
 
----
-
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### **Backend**
 - PHP, Laravel, CodeIgniter 4  
@@ -61,9 +57,7 @@ My work combines **clean code principles**, **modern software architecture**, an
 - Structured Data (Schema)  
 - Keyword Research
 
----
-
-## 🧩 Experience Summary
+## Experience Summary
 
 ### **Triooz (2020 – 2023)**  
 Worked as IT & Software Developer. Built backend systems, managed infrastructure, developed Laravel-based apps, handled DevOps tools and provided system administration support.
@@ -84,9 +78,7 @@ Focused on modular backend, component-based frontend and DevOps workflows.
 Managing five WordPress-based e-commerce sites.  
 Responsible for technical SEO, performance optimization, analytics and full technical management.
 
----
-
-### 🌐 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren%20Çağlı-lightgrey?logo=linkedin)](https://www.linkedin.com/in/eren-%C3%A7a%C4%9Fl%C4%B1/)  
 [![Instagram](https://img.shields.io/badge/Instagram-erencagliz-lightgrey?logo=instagram)](https://www.instagram.com/erencagliz/)  
@@ -94,7 +86,7 @@ Responsible for technical SEO, performance optimization, analytics and full tech
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 ![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencagliz&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erencagliz&layout=compact&theme=default)
