@@ -103,15 +103,6 @@ also:      Docker · CI/CD · Redis · System administration
 
 <div align="center">
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erencagliz&theme=github_dark" />
-
-<br/>
-
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erencagliz&theme=github_dark" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erencagliz&theme=github_dark" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/github/followers/erencagliz?style=flat-square&logo=github&logoColor=E6EDF3&label=Followers&labelColor=0D1117&color=161B22" />
 <img src="https://img.shields.io/github/stars/erencagliz?style=flat-square&logo=github&logoColor=E6EDF3&label=Stars&labelColor=0D1117&color=161B22" />
 
