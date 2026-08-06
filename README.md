@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&fontSize=44&fontColor=E6EDF3&fontAlignY=42&text=Eren%20%C3%87a%C4%9Fl%C4%B1&desc=Software%20Developer%20%C2%B7%20AI%20%26%20RAG%20Systems&descSize=17&descAlignY=68&animation=fadeIn" width="100%" />
+<h1>Eren Çağlı</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=32&lines=Backend+%26+full+stack+engineering;RAG%2C+Agentic+RAG+and+MCP+systems;Reliable%2C+scalable%2C+maintainable+software" alt="" />
+<p><b>Software Developer</b> &nbsp;·&nbsp; AI &amp; RAG Systems</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=34&lines=Backend+%26+full+stack+engineering;RAG%2C+Agentic+RAG+and+MCP+systems;Reliable%2C+scalable%2C+maintainable+software" alt="" />
 
 <br/>
 
@@ -101,8 +103,13 @@ also:      Docker · CI/CD · Redis · System administration
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=erencagliz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erencagliz&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=erencagliz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&cache_seconds=86400" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erencagliz&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=86400" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/erencagliz?style=flat-square&logo=github&logoColor=E6EDF3&label=Followers&labelColor=0D1117&color=161B22" />
+<img src="https://img.shields.io/github/stars/erencagliz?style=flat-square&logo=github&logoColor=E6EDF3&label=Stars&labelColor=0D1117&color=161B22" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=erencagliz&hide_border=true&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF&title_color=58A6FF" width="98%" />
 
