@@ -1,128 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=210&section=header&text=Hi,%20I'm%20Eren%20Ça%C4%9Fl%C4%B1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20AI%20%26%20RAG%20%C2%B7%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&fontSize=44&fontColor=E6EDF3&fontAlignY=42&text=Eren%20%C3%87a%C4%9Fl%C4%B1&desc=Software%20Developer%20%C2%B7%20AI%20%26%20RAG%20Systems&descSize=17&descAlignY=68&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/erencagliz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=2575FC&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;RAG%2C+Agentic+RAG+%26+MCP+Systems;PHP+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Vue.js;Building+reliable%2C+scalable+solutions" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=32&lines=Backend+%26+full+stack+engineering;RAG%2C+Agentic+RAG+and+MCP+systems;Reliable%2C+scalable%2C+maintainable+software" alt="" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/eren-%C3%A7a%C4%9F%C4%B1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:erencglz@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/erencagliz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Istanbul,_Turkey-2575FC?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://github.com/erencagliz"><img src="https://img.shields.io/badge/GitHub-erencagliz-E6EDF3?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=0D1117&color=161B22" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/eren-%C3%A7a%C4%9F%C4%B1"><img src="https://img.shields.io/badge/LinkedIn-Eren_%C3%87a%C4%9Fl%C4%B1-E6EDF3?style=flat-square&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117&color=161B22" /></a>&nbsp;
+<a href="mailto:erencglz@icloud.com"><img src="https://img.shields.io/badge/Email-erencglz@icloud.com-E6EDF3?style=flat-square&logo=maildotru&logoColor=E6EDF3&labelColor=0D1117&color=161B22" /></a>&nbsp;
+<img src="https://img.shields.io/badge/Location-Istanbul,_Turkey-E6EDF3?style=flat-square&logo=googlemaps&logoColor=E6EDF3&labelColor=0D1117&color=161B22" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2&section=header" width="100%" />
 
 </div>
 
-<br/>
+### About
 
-## About Me
+Software developer with a background spanning application development and IT operations. I build enterprise web applications, backend services and REST APIs, and I have run the systems and support side of the same organisations — which shapes how I design for reliability.
 
-I have experience in software development and IT operations. I work on enterprise web applications, backend services, REST APIs, and database solutions, alongside systems administration and technical support.
-
-- Currently building enterprise web applications and AI-powered platforms at **Servodata**
-- Designing and integrating **RAG, Agentic RAG, and Model Context Protocol (MCP)** based AI solutions
-- Building scalable backend services and APIs with Node.js, PHP, and Python
-- Working with PostgreSQL and Redis for high-performance data structures and caching
-- Involved in Docker-based development workflows and CI/CD pipelines
-- Happy to talk about PHP, Laravel, Vue.js, TypeScript, Python, and PostgreSQL
-
-<br/>
-
-## Tech Stack
+```yaml
+role:      Software Developer @ Servodata
+focus:     Backend services · AI-powered platforms
+building:  RAG · Agentic RAG · MCP integrations
+stack:     Node.js · PHP · Python · Vue.js · PostgreSQL
+also:      Docker · CI/CD · Redis · System administration
+```
 
 <div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,ts,js,py,html,css" />
-
-**Backend & Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,vue,react,nextjs,tailwind" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite" />
-
-**AI / DevOps / Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_RAG-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Integration-8A2BE2?style=for-the-badge" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=2&section=header" width="100%" />
 </div>
 
-<br/>
-
-## Experience
+### Stack
 
 <table>
 <tr>
-<td width="140"><b>05.2025 – Present</b></td>
-<td>
-<b>Software Developer</b> · Servodata <i>(Istanbul, Çekmeköy)</i><br/>
-Backend services with Node.js/PHP/Python · RAG, Agentic RAG & MCP based AI solutions · PostgreSQL & Redis · Docker & CI/CD
+<td valign="top" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=php,ts,js,py&theme=dark" height="42" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" height="42" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite&theme=dark" height="42" />
+
 </td>
-</tr>
-<tr>
-<td><b>12.2023 – 05.2025</b></td>
-<td>
-<b>Software Developer</b> · HİS Türkiye <i>(Istanbul, Şişli)</i><br/>
-Enterprise applications with Laravel, Node.js, Vue.js & Tailwind CSS · REST API services · TypeScript & Vue.js interfaces · Agile workflows
-</td>
-</tr>
-<tr>
-<td><b>05.2022 – 12.2023</b></td>
-<td>
-<b>Software Developer</b> · Simurgh Media <i>(Istanbul, Ataşehir)</i><br/>
-20+ corporate websites · Custom CMS modules with PHP & CodeIgniter 4 · Theme integrations · Responsive interfaces
-</td>
-</tr>
-<tr>
-<td><b>10.2020 – 12.2023</b></td>
-<td>
-<b>Software Developer / IT Specialist</b> · Triooz <i>(Istanbul, Ataşehir)</i><br/>
-Technical support for 80+ employees · Hardware/software/network management · Internal Laravel-based applications
+<td valign="top" width="50%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind&theme=dark" height="42" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" height="42" />
+
+**AI & LLM**
+
+<img src="https://img.shields.io/badge/RAG-161B22?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Agentic_RAG-161B22?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LLM_Integration-161B22?style=flat-square&labelColor=0D1117" />
+
 </td>
 </tr>
 </table>
 
-<br/>
-
-## GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erencagliz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erencagliz&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erencagliz&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erencagliz&theme=tokyo-night&hide_border=true" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=2&section=header" width="100%" />
 </div>
 
-<br/>
+### Experience
 
-## Contact
+**Software Developer** · Servodata &nbsp;<img src="https://img.shields.io/badge/May_2025_%E2%80%93_Present-161B22?style=flat-square&labelColor=0D1117" align="right" />
+
+> Enterprise web applications and AI-powered platforms. Scalable backend services and APIs in Node.js, PHP and Python. LLM-based systems using RAG, Agentic RAG and Model Context Protocol. High-performance data and caching layers with PostgreSQL and Redis. Docker-based workflows and CI/CD.
+
+**Software Developer** · HİS Türkiye &nbsp;<img src="https://img.shields.io/badge/Dec_2023_%E2%80%93_May_2025-161B22?style=flat-square&labelColor=0D1117" align="right" />
+
+> Built and maintained enterprise web applications with Laravel, Node.js, Vue.js and Tailwind CSS. REST API services for data exchange between corporate systems. Performance work on PostgreSQL and Redis. Responsive interfaces in TypeScript and Vue.js, within an Agile team.
+
+**Software Developer** · Simurgh Media &nbsp;<img src="https://img.shields.io/badge/May_2022_%E2%80%93_Dec_2023-161B22?style=flat-square&labelColor=0D1117" align="right" />
+
+> Delivered 20+ corporate websites across a range of industries. Custom CMS modules on PHP and CodeIgniter 4, theme integrations and client-specific customisation, responsive front-ends in HTML, CSS and JavaScript.
+
+**Software Developer / IT Specialist** · Triooz &nbsp;<img src="https://img.shields.io/badge/Oct_2020_%E2%80%93_Dec_2023-161B22?style=flat-square&labelColor=0D1117" align="right" />
+
+> Technical support for 80+ employees across two offices. Managed hardware, software and network infrastructure. Built internal web applications and maintained Laravel-based projects while running day-to-day IT operations.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=2&section=header" width="100%" />
+</div>
+
+### GitHub
 
 <div align="center">
 
-Want to talk about a project, or just say hi? Feel free to reach out.
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=erencagliz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erencagliz&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
 
-<a href="https://www.linkedin.com/in/eren-%C3%A7a%C4%9F%C4%B1"><img src="https://img.shields.io/badge/-Eren_Çağlı-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:erencglz@icloud.com"><img src="https://img.shields.io/badge/-erencglz@icloud.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erencagliz&hide_border=true&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF&title_color=58A6FF" width="98%" />
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2&section=header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<sub>Open to conversations about backend architecture, LLM systems and everything in between.</sub>
 
 </div>
